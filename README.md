@@ -34,7 +34,7 @@ Tiwa — CS Student | ML & Data Science Enthusiast
 
 https://breast-cancer-predictor-app-mnvvzdtkyvdknhhyjtcq8e.streamlit.app/.
 
-You can edit the README directly on GitHub — click the README.md file, then click the *pencil icon* to edit it. Paste this in and save!
+
 
 
 
